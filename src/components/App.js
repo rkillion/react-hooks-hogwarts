@@ -7,6 +7,9 @@ function App() {
 	return (
 		<div className="App">
 			<Nav />
+			{/* InfoBar */}
+			{/* FilterBar */}
+			{/* Hogcard Area */}
 		</div>
 	);
 }
